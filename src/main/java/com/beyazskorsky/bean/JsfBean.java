@@ -1,4 +1,4 @@
-package com.beyazskorsky;
+package com.beyazskorsky.bean;
 
 import lombok.Getter;
 import lombok.Setter;
