@@ -9,4 +9,14 @@
         <class>com.beyazskorsky.alternative.Boss_1</class>
         <!--<class>com.beyazskorsky.alternative.Boss_2</class>-->
     </alternatives>
+
+
+    <interceptors>
+        <class>com.beyazskorsky.aop.intercepter.InterceptorMainDuty</class>
+    </interceptors>
+
+    <decorators>
+        <class>com.beyazskorsky.aop.decorator.HomeDecorator</class>
+    </decorators>
+
 </beans>
